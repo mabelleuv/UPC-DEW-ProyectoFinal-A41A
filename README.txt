@@ -5,3 +5,11 @@ Proyecto Final DEW A41A
 -Miembros del grupo / usuario google / usuario de github
 
 Scrumy http://scrumy.com/rick?url=gifted31basis
+
+Maldonado Sanchez, Roberto;  U201300517; Robertosm17; robertosm17@gmail.com
+
+Urbano Villarreal, Mabelle; U201216648; mabelleuv; mabellev26@gmail.com
+
+Guevara Ramirez, Pablo; U201300649; Pabloguevara12; Pabloguevara144@gmail.com
+
+Fuentes Valdivia, Sandra; A610096; sandrafv; sandrafv@gmail.com
