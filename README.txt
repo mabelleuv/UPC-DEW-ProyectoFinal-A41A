@@ -1,6 +1,6 @@
 Proyecto Final DEW A41A
 
--Bit�cora del proyecto en google docs (visibilidad "cualquiera que tenga el link").https://docs.google.com/spreadsheet/ccc?key=0ArVWC-2N2chkdFk0Tlc3SGFoeVZfaWRSSmJuUVZ2YVE#gid=0
+-Bit�cora del proyecto en google docs (visibilidad "cualquiera que tenga el link"). https://docs.google.com/spreadsheet/ccc?key=0ArVWC-2N2chkdFk0Tlc3SGFoeVZfaWRSSmJuUVZ2YVE#gid=0
 -Herramienta Scrumy.
 -Miembros del grupo / usuario google / usuario de github
 
